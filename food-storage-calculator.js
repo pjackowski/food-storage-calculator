@@ -34,7 +34,7 @@ function calculate() {
     water  += inputs.children * 2.0;
     
     // weeks, no modifier
-    period   = inputs.weeks    * 1.0;
+    period  = inputs.weeks    * 1.0;
     
     // required food, divided by 2.205 (LBS to KG)
     food.grain  = Math.ceil(people * period * 7.692 / 2.205);
