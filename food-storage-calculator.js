@@ -9,17 +9,17 @@ function calculate() {
 
     // calculate food storage requirements
 
-    // counters
-    let people = 0.0,
-        period = 0.0,
-        water  = 0.0;
-
     // default input values
     let inputs = {
         adults: 1,
         children: 0,
         weeks: 12
     }
+    
+    // counters
+    let people = 0.0,
+        period = 0.0,
+        water  = 0.0;
 
     // results
     let food = {
