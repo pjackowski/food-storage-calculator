@@ -3,7 +3,7 @@
 Quick JS script to calculate the required amount of food for number of people for given amount of weeks.
 
 
-## Change deafults accordingly
+## Change deafults
 
 ```
 // default input values
